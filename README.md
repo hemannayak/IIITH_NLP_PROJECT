@@ -35,6 +35,7 @@ Built with 💻 **Python**, 🧠 **PyTorch**, and 🌐 **Streamlit**, this proje
 <p align="center">
   <img src="https://github.com/<your-username>/VoiceScope-India/blob/main/assets/voicescope_preview.gif" alt="App Demo" width="700"/>
 </p>
+<img width="1650" height="745" alt="Screenshot 2025-11-06 at 11 45 30 PM" src="https://github.com/user-attachments/assets/c4f3c98e-86a1-47c1-93ff-ca7fd0c89cfa" />
 
 > *A glimpse of our Streamlit app predicting accents & showing regional dishes.*
 
